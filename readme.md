@@ -1,6 +1,6 @@
 # 🎬 Morec - Movie Recommender App
 
-
+![morec mock up](https://github.com/hrmneffdii/Morec--Movie-Recommender-Website/assets/149390129/eda5c90f-10cf-4d38-b447-049beb44b880)
 
 Morec is a website crafted using Vite, React, Express, Mongo, and other cutting-edge technologies. Designed with the specific intention of serving as a humorous portfolio, this platform incorporates fundamental concepts like React's component structure and the creation of a database schema with Express, among other features.
 
